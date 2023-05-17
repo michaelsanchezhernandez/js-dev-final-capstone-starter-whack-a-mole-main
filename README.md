@@ -4,7 +4,8 @@ A local game development studio has decided to create a new game that's based on
 
 The game designers have asked you to come up with a computer version of this game. They have provided some source code, but it still needs to be completed. You are encouraged to come up with an original visual design for this game or even change the theme. The game designers expect you to use the JavaScript, HTML, and CSS skills that you've learned in this program to give the game a unique feel.
 
-![whackamole](https://github.com/gabrielsanchez/erddiagram/blob/main/whackamole.gif?raw=true)
+![Final Capstone](https://github.com/michaelsanchezhernandez/js-dev-final-capstone-starter-whack-a-mole-main/assets/72722510/98597ff2-aa34-4b0f-bc99-f1c45d8b995e)
+
 
 ## Steps to complete
 
