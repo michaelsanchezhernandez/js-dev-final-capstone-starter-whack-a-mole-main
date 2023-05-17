@@ -8,6 +8,7 @@ const hard = document.querySelector('.hard');
 
 const score = document.querySelector('#score');// Use querySelector() to get the score element
 const timerDisplay= document.querySelector('#timer'); // use querySelector() to get the timer element.
+/* constants to make playable music and hit sounds */ 
 const song = new Audio('../assets/molesong.mp3');
 const hit = new Audio('../assets/hit.mp3')
 
@@ -17,6 +18,7 @@ let timer;
 let lastHole = 0;
 let points = 0;
 
+/* functions to make the music play */
 function playAudio(audioObject) {
   audioObject.play();
 }
